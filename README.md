@@ -1,6 +1,6 @@
 ## FyloWebSite
 
-<p>Fiz este site com intuito De <br> aprendizagem e também praticar e Também foi um desafio no frontend mentir</p>
+<p>Fiz este site com intuito De <br> aprendizagem e também praticar e Também foi um desafio no front-end mentor</p>
 
 ### Tecnologias usadas No Desenvolvimento
 
@@ -15,3 +15,5 @@
 ### Oque aprende de novo com este projeto
 - Efeito da cobrinha nos link
 - Aos efeito fade
+
+### Obrigado por estar aqui
